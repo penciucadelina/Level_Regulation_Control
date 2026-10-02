@@ -1,0 +1,56 @@
+D:\AN4\SCPC\Proiect\PID_Controller\bin\Debug\net8.0\PID_Controller.exe
+D:\AN4\SCPC\Proiect\PID_Controller\bin\Debug\net8.0\PID_Controller.deps.json
+D:\AN4\SCPC\Proiect\PID_Controller\bin\Debug\net8.0\PID_Controller.runtimeconfig.json
+D:\AN4\SCPC\Proiect\PID_Controller\bin\Debug\net8.0\PID_Controller.dll
+D:\AN4\SCPC\Proiect\PID_Controller\bin\Debug\net8.0\PID_Controller.pdb
+D:\AN4\SCPC\Proiect\PID_Controller\obj\Debug\net8.0\PID_Controller.GeneratedMSBuildEditorConfig.editorconfig
+D:\AN4\SCPC\Proiect\PID_Controller\obj\Debug\net8.0\PID_Controller.AssemblyInfoInputs.cache
+D:\AN4\SCPC\Proiect\PID_Controller\obj\Debug\net8.0\PID_Controller.AssemblyInfo.cs
+D:\AN4\SCPC\Proiect\PID_Controller\obj\Debug\net8.0\PID_Controller.csproj.CoreCompileInputs.cache
+D:\AN4\SCPC\Proiect\PID_Controller\obj\Debug\net8.0\PID_Controller.dll
+D:\AN4\SCPC\Proiect\PID_Controller\obj\Debug\net8.0\refint\PID_Controller.dll
+D:\AN4\SCPC\Proiect\PID_Controller\obj\Debug\net8.0\PID_Controller.pdb
+D:\AN4\SCPC\Proiect\PID_Controller\obj\Debug\net8.0\PID_Controller.genruntimeconfig.cache
+D:\AN4\SCPC\Proiect\PID_Controller\obj\Debug\net8.0\ref\PID_Controller.dll
+C:\Facultate\An 4\SCPC\ProiectADE\PID_Controller\bin\Debug\net8.0\PID_Controller.exe
+C:\Facultate\An 4\SCPC\ProiectADE\PID_Controller\bin\Debug\net8.0\PID_Controller.deps.json
+C:\Facultate\An 4\SCPC\ProiectADE\PID_Controller\bin\Debug\net8.0\PID_Controller.runtimeconfig.json
+C:\Facultate\An 4\SCPC\ProiectADE\PID_Controller\bin\Debug\net8.0\PID_Controller.dll
+C:\Facultate\An 4\SCPC\ProiectADE\PID_Controller\bin\Debug\net8.0\PID_Controller.pdb
+C:\Facultate\An 4\SCPC\ProiectADE\PID_Controller\obj\Debug\net8.0\PID_Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\An 4\SCPC\ProiectADE\PID_Controller\obj\Debug\net8.0\PID_Controller.AssemblyInfoInputs.cache
+C:\Facultate\An 4\SCPC\ProiectADE\PID_Controller\obj\Debug\net8.0\PID_Controller.AssemblyInfo.cs
+C:\Facultate\An 4\SCPC\ProiectADE\PID_Controller\obj\Debug\net8.0\PID_Controller.csproj.CoreCompileInputs.cache
+C:\Facultate\An 4\SCPC\ProiectADE\PID_Controller\obj\Debug\net8.0\PID_Controller.dll
+C:\Facultate\An 4\SCPC\ProiectADE\PID_Controller\obj\Debug\net8.0\refint\PID_Controller.dll
+C:\Facultate\An 4\SCPC\ProiectADE\PID_Controller\obj\Debug\net8.0\PID_Controller.pdb
+C:\Facultate\An 4\SCPC\ProiectADE\PID_Controller\obj\Debug\net8.0\PID_Controller.genruntimeconfig.cache
+C:\Facultate\An 4\SCPC\ProiectADE\PID_Controller\obj\Debug\net8.0\ref\PID_Controller.dll
+D:\AN4\SCPC\Proiect\ContributieSCPC_Adelina\ContributieSCPC_Adelina\PID_Controller\bin\Debug\net8.0\PID_Controller.exe
+D:\AN4\SCPC\Proiect\ContributieSCPC_Adelina\ContributieSCPC_Adelina\PID_Controller\bin\Debug\net8.0\PID_Controller.deps.json
+D:\AN4\SCPC\Proiect\ContributieSCPC_Adelina\ContributieSCPC_Adelina\PID_Controller\bin\Debug\net8.0\PID_Controller.runtimeconfig.json
+D:\AN4\SCPC\Proiect\ContributieSCPC_Adelina\ContributieSCPC_Adelina\PID_Controller\bin\Debug\net8.0\PID_Controller.dll
+D:\AN4\SCPC\Proiect\ContributieSCPC_Adelina\ContributieSCPC_Adelina\PID_Controller\bin\Debug\net8.0\PID_Controller.pdb
+D:\AN4\SCPC\Proiect\ContributieSCPC_Adelina\ContributieSCPC_Adelina\PID_Controller\obj\Debug\net8.0\PID_Controller.GeneratedMSBuildEditorConfig.editorconfig
+D:\AN4\SCPC\Proiect\ContributieSCPC_Adelina\ContributieSCPC_Adelina\PID_Controller\obj\Debug\net8.0\PID_Controller.AssemblyInfoInputs.cache
+D:\AN4\SCPC\Proiect\ContributieSCPC_Adelina\ContributieSCPC_Adelina\PID_Controller\obj\Debug\net8.0\PID_Controller.AssemblyInfo.cs
+D:\AN4\SCPC\Proiect\ContributieSCPC_Adelina\ContributieSCPC_Adelina\PID_Controller\obj\Debug\net8.0\PID_Controller.csproj.CoreCompileInputs.cache
+D:\AN4\SCPC\Proiect\ContributieSCPC_Adelina\ContributieSCPC_Adelina\PID_Controller\obj\Debug\net8.0\PID_Controller.dll
+D:\AN4\SCPC\Proiect\ContributieSCPC_Adelina\ContributieSCPC_Adelina\PID_Controller\obj\Debug\net8.0\refint\PID_Controller.dll
+D:\AN4\SCPC\Proiect\ContributieSCPC_Adelina\ContributieSCPC_Adelina\PID_Controller\obj\Debug\net8.0\PID_Controller.pdb
+D:\AN4\SCPC\Proiect\ContributieSCPC_Adelina\ContributieSCPC_Adelina\PID_Controller\obj\Debug\net8.0\PID_Controller.genruntimeconfig.cache
+D:\AN4\SCPC\Proiect\ContributieSCPC_Adelina\ContributieSCPC_Adelina\PID_Controller\obj\Debug\net8.0\ref\PID_Controller.dll
+D:\AN4\SCPC\Proiect\ContributieSCPC\PID_Controller\bin\Debug\net8.0\PID_Controller.exe
+D:\AN4\SCPC\Proiect\ContributieSCPC\PID_Controller\bin\Debug\net8.0\PID_Controller.deps.json
+D:\AN4\SCPC\Proiect\ContributieSCPC\PID_Controller\bin\Debug\net8.0\PID_Controller.runtimeconfig.json
+D:\AN4\SCPC\Proiect\ContributieSCPC\PID_Controller\bin\Debug\net8.0\PID_Controller.dll
+D:\AN4\SCPC\Proiect\ContributieSCPC\PID_Controller\bin\Debug\net8.0\PID_Controller.pdb
+D:\AN4\SCPC\Proiect\ContributieSCPC\PID_Controller\obj\Debug\net8.0\PID_Controller.GeneratedMSBuildEditorConfig.editorconfig
+D:\AN4\SCPC\Proiect\ContributieSCPC\PID_Controller\obj\Debug\net8.0\PID_Controller.AssemblyInfoInputs.cache
+D:\AN4\SCPC\Proiect\ContributieSCPC\PID_Controller\obj\Debug\net8.0\PID_Controller.AssemblyInfo.cs
+D:\AN4\SCPC\Proiect\ContributieSCPC\PID_Controller\obj\Debug\net8.0\PID_Controller.csproj.CoreCompileInputs.cache
+D:\AN4\SCPC\Proiect\ContributieSCPC\PID_Controller\obj\Debug\net8.0\PID_Controller.dll
+D:\AN4\SCPC\Proiect\ContributieSCPC\PID_Controller\obj\Debug\net8.0\refint\PID_Controller.dll
+D:\AN4\SCPC\Proiect\ContributieSCPC\PID_Controller\obj\Debug\net8.0\PID_Controller.pdb
+D:\AN4\SCPC\Proiect\ContributieSCPC\PID_Controller\obj\Debug\net8.0\PID_Controller.genruntimeconfig.cache
+D:\AN4\SCPC\Proiect\ContributieSCPC\PID_Controller\obj\Debug\net8.0\ref\PID_Controller.dll
